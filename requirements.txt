@@ -2,4 +2,4 @@ Django==3.0.8
 django-polls==0.1
 hyperlink==20.0.1
 psycopg2==2.8.5
-.\django_apps\django-polls
+./django_apps/django-polls/
